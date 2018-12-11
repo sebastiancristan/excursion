@@ -1,0 +1,62 @@
+
+/* Background color */
+
+body {
+  background-color: black;
+}
+
+
+/* Whole page's font */
+
+html {
+  font-family: Verdana;
+}
+
+
+/* h1 style */
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+
+/* h2 style */
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+
+/* Download links style */
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+
+/* Pharagraph style */
+
+.pharagraph {
+  color: gray;
+  font-size: 21px;
+}
+
+
+/* Center */
+
+.center {
+  text-align: center;
+}
+
+
+/* Copyright footnote style */
+
+h4 {
+  text-align: right;
+  color: gray;
+}
